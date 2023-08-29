@@ -1,2 +1,2 @@
 # Machine Learning Term Project
-### Holding space for machine learning term project. Fall 2023.
+### Holding space for undergrad term project. Fall 2023.
